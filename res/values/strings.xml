@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MagicRecipe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="homescreen_search_button_text">Search</string>
+    <string name="homescreen_hint">Ingredients</string>
+    <string name="unavailable">No Recipes</string>
+    <string name="ok">OK</string>
+    <string name="network_unavailable">No network connection available</string>
+
+</resources>
